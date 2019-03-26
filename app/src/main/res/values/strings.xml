@@ -1,4 +1,18 @@
 <resources>
     <string name="app_name">CVApp</string>
     <string name="action_settings">Settings</string>
+
+    <string name="candidate_profile_image">Profile Image</string>
+    <string name="loading">loading...</string>
+    <string name="progress_msg">Fetching candidate information</string>
+    <string name="imageprofile">imageProfile</string>
+
+    <string name="professional_summary_title">Professional Summary</string>
+    <string name="technical_skill_title">Technical Skill</string>
+    <string name="past_experience_title">Past Experience</string>
+
+    <string name="main_activity_title">CV List</string>
+    <string name="candidate_detail_activity_title">Candidate Detail</string>
+
+    <string name="professional_summary_support_text">Past Experience</string>
 </resources>
