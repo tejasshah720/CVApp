@@ -7,6 +7,7 @@ import kotlinx.android.parcel.Parcelize
 @Parcelize
 data class CVDetail(
 	@SerializedName("summary") var summary: String? = null,
+	@SerializedName("skills") var skills: List<SkillsItem?>? = null,
 	@SerializedName("website") var website: String? = null,
 	@SerializedName("phone") var phone: String? = null,
 	@SerializedName("name") var name: String? = null,

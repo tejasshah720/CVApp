@@ -15,6 +15,6 @@ interface ApiInterface {
     /*
     * Multiple user data
     * */
-    @GET("bins/1ft1va")
+    @GET("bins/luy52")
     fun getCVDetailInfo(): Call<List<CVDetail>>
 }
